@@ -6,3 +6,4 @@ test_uc.py
 test_driver.py
 test_parser.py
 test_transformer.py
+test_storage.py
