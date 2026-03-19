@@ -4,3 +4,5 @@ __pycache__/
 .env
 test_uc.py
 test_driver.py
+test_parser.py
+test_transformer.py
