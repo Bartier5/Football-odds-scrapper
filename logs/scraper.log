@@ -1,0 +1,17 @@
+2026-03-20 10:09:38,316 [INFO] __main__: Pipeline Started
+2026-03-20 10:10:22,379 [INFO] __main__: Pipeline Started
+2026-03-20 13:19:23,185 [INFO] __main__: Pipeline Started
+2026-03-20 13:20:25,441 [INFO] undetected_chromedriver.patcher: patching driver executable C:\Users\user'\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-20 13:23:07,174 [INFO] transformer: Transforming 18 records
+2026-03-20 13:23:08,065 [INFO] transformer: Transform complete — 18 clean records
+2026-03-20 13:23:09,277 [INFO] storage: Saved 18 rows to pl_odds
+2026-03-20 13:23:09,396 [INFO] __main__: Pipeline complete — 18 records saved
+2026-03-20 13:27:01,376 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-20 13:27:01,379 [INFO] main: Pipeline Started
+2026-03-20 13:29:54,587 [INFO] undetected_chromedriver.patcher: patching driver executable C:\Users\user'\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-20 13:31:59,269 [INFO] transformer: Transforming 18 records
+2026-03-20 13:31:59,521 [INFO] transformer: Transform complete — 18 clean records
+2026-03-20 13:31:59,840 [INFO] storage: Saved 18 rows to pl_odds
+2026-03-20 13:31:59,840 [INFO] main: Pipeline complete — 18 records saved
+2026-03-20 13:32:00,756 [INFO] apscheduler.scheduler: Added job "run_pipeline" to job store "default"
+2026-03-20 13:32:00,756 [INFO] apscheduler.scheduler: Scheduler started
